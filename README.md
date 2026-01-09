@@ -56,7 +56,18 @@ To help business stakeholders:
 - **Data Modeling**
 - **Excel / CSV**
 - **Business Intelligence Concepts**
+  ---
+  
+##  🚀How to Use
+- **Clone this repository**
+- **Open .pbix in Power BI Desktop**
+- **Refresh data or connect to your own dataset**
+- **Explore insights using filters & slicers**
+  ---
+  
+ ## 📬 Contact
 
+LinkedIN : https://www.linkedin.com/in/ivy-sarkar-335a0b22a/
+- 📧Open to opportunities in Data / Business Analytics
 
-Price per Unit = 
-DIVIDE([Total Sales], [Units Sold], 0)
+If you found this useful ⭐ star the repo!
